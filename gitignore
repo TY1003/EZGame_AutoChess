@@ -1,0 +1,9 @@
+/.vs/*
+/.svn/*
+/Binaries/*
+/DerivedDataCache/*
+/Intermediate/*
+/Plugins/EZGame/Binaries/*
+/Plugins/EZGame/Intermediate/*
+/Saved/*
+*.sln
